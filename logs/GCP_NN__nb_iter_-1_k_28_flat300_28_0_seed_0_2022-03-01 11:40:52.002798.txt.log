@@ -1,0 +1,28 @@
+01/03/2022 11:40:52 init
+01/03/2022 11:40:52 cuda:0
+01/03/2022 11:40:52 k : 28
+01/03/2022 11:40:52 size 300
+01/03/2022 11:40:52 TEST
+01/03/2022 11:40:52 k : 28
+01/03/2022 11:40:53 initPopGCP
+01/03/2022 11:41:11 ############################
+01/03/2022 11:41:11 Start TABU
+01/03/2022 11:41:11 ############################
+01/03/2022 11:41:12 Tabucol duration : 0.9153923988342285
+01/03/2022 11:41:12 Epoch : 0
+01/03/2022 11:41:12 Pop best : 620_worst : 720_avg : 680.2
+01/03/2022 11:41:12 end tabu
+01/03/2022 11:41:12 ############################
+01/03/2022 11:41:12 Results TabuCol
+01/03/2022 11:41:12 ############################
+01/03/2022 11:41:12 Save best solution
+01/03/2022 11:41:12 add pending dealloc: module_unload ? bytes
+01/03/2022 11:41:12 add pending dealloc: module_unload ? bytes
+01/03/2022 11:41:12 add pending dealloc: cuMemFree_v2 1024 bytes
+01/03/2022 11:41:12 add pending dealloc: cuMemFree_v2 6000 bytes
+01/03/2022 11:41:12 add pending dealloc: cuMemFree_v2 50 bytes
+01/03/2022 11:41:12 add pending dealloc: cuMemFree_v2 50 bytes
+01/03/2022 11:41:12 add pending dealloc: cuMemFree_v2 20 bytes
+01/03/2022 11:41:12 add pending dealloc: cuMemFree_v2 6000 bytes
+01/03/2022 11:41:12 add pending dealloc: cuMemFree_v2 168000 bytes
+01/03/2022 11:41:12 add pending dealloc: cuMemFree_v2 180000 bytes

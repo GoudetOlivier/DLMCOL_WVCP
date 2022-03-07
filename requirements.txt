@@ -1,0 +1,10 @@
+numba==0.53.1
+flake8
+tox
+Sphinx
+black
+torch
+progress
+pylint
+autoflake
+isort

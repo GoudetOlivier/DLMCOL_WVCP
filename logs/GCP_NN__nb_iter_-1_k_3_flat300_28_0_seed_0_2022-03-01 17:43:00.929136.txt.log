@@ -1,0 +1,33 @@
+01/03/2022 05:43:00 init
+01/03/2022 05:43:01 cuda:1
+01/03/2022 05:43:01 k : 3
+01/03/2022 05:43:01 size 300
+01/03/2022 05:43:01 k : 3
+01/03/2022 05:43:03 initPopGCP
+01/03/2022 05:43:17 ############################
+01/03/2022 05:43:17 Start TABU
+01/03/2022 05:43:17 ############################
+01/03/2022 05:43:42 Tabucol duration : 25.04549789428711
+01/03/2022 05:43:42 Epoch : 0
+01/03/2022 05:43:42 Pop best : 6024_worst : 6119_avg : 6079.359521484375
+01/03/2022 05:43:42 end tabu
+01/03/2022 05:43:42 ############################
+01/03/2022 05:43:42 Results TabuCol
+01/03/2022 05:43:42 ############################
+01/03/2022 05:43:42 Save best solution
+01/03/2022 05:43:42 Keep best with diversity/fit tradeoff
+01/03/2022 05:43:42 start matrix distance
+01/03/2022 05:43:42 add pending dealloc: cuMemFree_v2 24576000 bytes
+01/03/2022 05:44:28 add pending dealloc: module_unload ? bytes
+01/03/2022 05:44:28 add pending dealloc: module_unload ? bytes
+01/03/2022 05:44:28 add pending dealloc: cuMemFree_v2 24576000 bytes
+01/03/2022 05:44:28 add pending dealloc: cuMemFree_v2 24576000 bytes
+01/03/2022 05:44:28 add pending dealloc: module_unload ? bytes
+01/03/2022 05:44:28 add pending dealloc: module_unload ? bytes
+01/03/2022 05:44:28 add pending dealloc: cuMemFree_v2 327680 bytes
+01/03/2022 05:44:28 add pending dealloc: cuMemFree_v2 24576000 bytes
+01/03/2022 05:44:28 add pending dealloc: cuMemFree_v2 838860800 bytes
+01/03/2022 05:44:28 add pending dealloc: cuMemFree_v2 838860800 bytes
+01/03/2022 05:44:28 add pending dealloc: cuMemFree_v2 81920 bytes
+01/03/2022 05:44:28 add pending dealloc: cuMemFree_v2 73728000 bytes
+01/03/2022 05:44:28 add pending dealloc: cuMemFree_v2 180000 bytes
